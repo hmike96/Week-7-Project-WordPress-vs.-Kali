@@ -13,7 +13,7 @@ Time spent: **10** hours spent in total
     - Fixed in version: 
   - [ ] GIF Walkthrough: ![](HackOne.gif)
   - [ ] Steps to recreate:  
-  - [ ] Affected source code:
+  - [ ] Affected source code: https://cedricvb.be/post/wordpress-stored-xss-vulnerability-4-1-2/
     - [Link 1](https://klikki.fi/adv/wordpress2.html)
 1. (Required) Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds
   - [ ] Summary: 
